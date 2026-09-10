@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/infected/lotso/body"
+	"$allowdiffusemodulation" "0"
+}
